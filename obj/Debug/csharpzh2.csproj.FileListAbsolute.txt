@@ -1,0 +1,57 @@
+C:\Users\A\source\repos\csharpzh2\bin\Debug\csharpzh2.exe.config
+C:\Users\A\source\repos\csharpzh2\bin\Debug\csharpzh2.exe
+C:\Users\A\source\repos\csharpzh2\bin\Debug\csharpzh2.pdb
+C:\Users\A\source\repos\csharpzh2\bin\Debug\EntityFramework.dll
+C:\Users\A\source\repos\csharpzh2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A\source\repos\csharpzh2\bin\Debug\System.Data.SQLite.dll
+C:\Users\A\source\repos\csharpzh2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\A\source\repos\csharpzh2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\A\source\repos\csharpzh2\bin\Debug\EntityFramework.xml
+C:\Users\A\source\repos\csharpzh2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A\source\repos\csharpzh2\bin\Debug\System.Data.SQLite.xml
+C:\Users\A\source\repos\csharpzh2\obj\Debug\csharpzh2.csprojAssemblyReference.cache
+C:\Users\A\source\repos\csharpzh2\obj\Debug\csharpzh2.Form1.resources
+C:\Users\A\source\repos\csharpzh2\obj\Debug\csharpzh2.Properties.Resources.resources
+C:\Users\A\source\repos\csharpzh2\obj\Debug\csharpzh2.csproj.GenerateResource.cache
+C:\Users\A\source\repos\csharpzh2\obj\Debug\csharpzh2.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\csharpzh2\obj\Debug\csharpzh2.csproj.CopyComplete
+C:\Users\A\source\repos\csharpzh2\obj\Debug\csharpzh2.exe
+C:\Users\A\source\repos\csharpzh2\obj\Debug\csharpzh2.pdb
+C:\Users\A\Desktop\csharpzh2\bin\Debug\csharpzh2.exe.config
+C:\Users\A\Desktop\csharpzh2\bin\Debug\csharpzh2.exe
+C:\Users\A\Desktop\csharpzh2\bin\Debug\csharpzh2.pdb
+C:\Users\A\Desktop\csharpzh2\bin\Debug\EntityFramework.dll
+C:\Users\A\Desktop\csharpzh2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A\Desktop\csharpzh2\bin\Debug\System.Data.SQLite.dll
+C:\Users\A\Desktop\csharpzh2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\A\Desktop\csharpzh2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\A\Desktop\csharpzh2\bin\Debug\EntityFramework.xml
+C:\Users\A\Desktop\csharpzh2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A\Desktop\csharpzh2\bin\Debug\System.Data.SQLite.xml
+C:\Users\A\Desktop\csharpzh2\obj\Debug\csharpzh2.csprojAssemblyReference.cache
+C:\Users\A\Desktop\csharpzh2\obj\Debug\csharpzh2.Form1.resources
+C:\Users\A\Desktop\csharpzh2\obj\Debug\csharpzh2.Properties.Resources.resources
+C:\Users\A\Desktop\csharpzh2\obj\Debug\csharpzh2.csproj.GenerateResource.cache
+C:\Users\A\Desktop\csharpzh2\obj\Debug\csharpzh2.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\csharpzh2\obj\Debug\csharpzh2.csproj.CopyComplete
+C:\Users\A\Desktop\csharpzh2\obj\Debug\csharpzh2.exe
+C:\Users\A\Desktop\csharpzh2\obj\Debug\csharpzh2.pdb
+C:\Users\A\Desktop\asztal mappak\csharpzh2\bin\Debug\csharpzh2.exe.config
+C:\Users\A\Desktop\asztal mappak\csharpzh2\bin\Debug\csharpzh2.exe
+C:\Users\A\Desktop\asztal mappak\csharpzh2\bin\Debug\csharpzh2.pdb
+C:\Users\A\Desktop\asztal mappak\csharpzh2\bin\Debug\EntityFramework.dll
+C:\Users\A\Desktop\asztal mappak\csharpzh2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A\Desktop\asztal mappak\csharpzh2\bin\Debug\System.Data.SQLite.dll
+C:\Users\A\Desktop\asztal mappak\csharpzh2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\A\Desktop\asztal mappak\csharpzh2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\A\Desktop\asztal mappak\csharpzh2\bin\Debug\EntityFramework.xml
+C:\Users\A\Desktop\asztal mappak\csharpzh2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A\Desktop\asztal mappak\csharpzh2\bin\Debug\System.Data.SQLite.xml
+C:\Users\A\Desktop\asztal mappak\csharpzh2\obj\Debug\csharpzh2.csprojAssemblyReference.cache
+C:\Users\A\Desktop\asztal mappak\csharpzh2\obj\Debug\csharpzh2.Form1.resources
+C:\Users\A\Desktop\asztal mappak\csharpzh2\obj\Debug\csharpzh2.Properties.Resources.resources
+C:\Users\A\Desktop\asztal mappak\csharpzh2\obj\Debug\csharpzh2.csproj.GenerateResource.cache
+C:\Users\A\Desktop\asztal mappak\csharpzh2\obj\Debug\csharpzh2.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\asztal mappak\csharpzh2\obj\Debug\csharpzh2.csproj.CopyComplete
+C:\Users\A\Desktop\asztal mappak\csharpzh2\obj\Debug\csharpzh2.exe
+C:\Users\A\Desktop\asztal mappak\csharpzh2\obj\Debug\csharpzh2.pdb
